@@ -1,0 +1,13 @@
+
+body {background-color: rgb(240, 240, 240);}
+
+
+#title { background-color: greenyellow; font-size: large;}
+#title2 {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+header {background-color: greenyellow;}
+body {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+footer {background-color: greenyellow; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+#foto {background-color: rgb(50, 50 , 50); border: 3px solid black;}
+.border {   border: 3px solid black;}
+h1 {text-align: center;}
+#foto2 {background-color: rgb(50, 50 , 50);}
